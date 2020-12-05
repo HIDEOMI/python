@@ -1,0 +1,2 @@
+# python
+pythonコード載せてます
